@@ -1,4 +1,4 @@
-package ISPprinciple;
+package ISPPrinciple;
 
 public class Sphere implements ThreeDimensionalShape {
     private final double radius;

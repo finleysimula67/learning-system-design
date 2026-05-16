@@ -1,4 +1,4 @@
-package ISPprinciple;
+package ISPPrinciple;
 
 public class Rectangle implements TwoDimensionalShape {
     private final double length;

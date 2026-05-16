@@ -1,4 +1,4 @@
-package ISPprinciple;
+package ISPPrinciple;
 
 public interface ThreeDimensionalShape
 {

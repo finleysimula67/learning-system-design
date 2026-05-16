@@ -1,4 +1,4 @@
-package ISPprinciple;
+package ISPPrinciple;
 
 public class square implements TwoDimensionalShape {
     private final double side;

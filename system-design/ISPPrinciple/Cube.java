@@ -1,4 +1,4 @@
-package ISPprinciple;
+package ISPPrinciple;
 
 public class Cube implements ThreeDimensionalShape {
     private final double side;
